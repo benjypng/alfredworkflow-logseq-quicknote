@@ -10,3 +10,5 @@ This Alfred workflow adds a Quick Note to an already open Logseq instance using 
 # Usage
 
 Open Alfred using your hotkey, and enter `ls What ever you want in your quick note`.
+
+![](demo.gif)
