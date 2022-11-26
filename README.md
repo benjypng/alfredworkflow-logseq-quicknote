@@ -9,6 +9,12 @@ This Alfred workflow adds a Quick Note to an already open Logseq instance using 
 
 # Usage
 
+### Insert to TODAY
+
 Open Alfred using your hotkey, and enter `ls What ever you want in your quick note`.
 
 ![](demo.gif)
+
+### Insert to specific page (available in Logseq v0.8.12 onwards)
+
+Open Alfred using your hotkey, and enter `ls-specific-page What ever you want in your quick note`, i.e. `ls-projectA love this project`
